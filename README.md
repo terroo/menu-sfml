@@ -3,7 +3,7 @@ Example of a game menu made with C++ and SFML
 
 This is the result of the tutorial made in the video below
 
-![[Menu C++ and SFML](menu-sfml.png)](https://youtu.be/h8-Q4eu3Qt4)
+[![Menu C++ and SFML](menu-sfml.png)](https://youtu.be/h8-Q4eu3Qt4)
 
 # Dependencies
 + [gcc/g++](https://gcc.gnu.org/)
